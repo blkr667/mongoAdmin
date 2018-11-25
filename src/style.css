@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+}
+#app {
+    height: 100%;
+}
+
+.login-background {
+	background-image: url(https://images.unsplash.com/photo-1515022614687-234cd10406dd?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f531c8cc3270bf579707edbd68d084b0&auto=format&fit=crop&w=1601&q=80);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
